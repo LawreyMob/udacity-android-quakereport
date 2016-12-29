@@ -8,26 +8,31 @@ import java.util.Date;
 
 public class Earthquake {
 
-    private double mag;
-    private String place;
-    private long time;
+    private double mMagnitude;
+    private String mPlace;
+    private long mTime;
+    private String mUrl;
 
-    public Earthquake(double mag, String place, long time) {
-        this.mag = mag;
-        this.place = place;
-        this.time = time;
+    public Earthquake(double magnitude, String place, long time, String url) {
+        this.mMagnitude = magnitude;
+        this.mPlace = place;
+        this.mTime = time;
+        this.mUrl = url;
     }
 
-    public double getMag() {
-        return mag;
+    public double getMagnitude() {
+        return mMagnitude;
     }
 
     public String getPlace() {
-        return place;
+        return mPlace;
     }
 
     public long getTime() {
-        return time;
+        return mTime;
     }
 
+    public String getmUrl() {
+        return mUrl;
+    }
 }
