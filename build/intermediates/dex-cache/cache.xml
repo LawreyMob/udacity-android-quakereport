@@ -12,21 +12,30 @@
     </item>
     <item
         is-multidex="true"
-        jar="/Users/Lawrey/udacity-android-quakereport/app/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/23.3.0/jars/classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="23.0.2"
-        sha1="a0b5d60246cd9d4f3f2443611b3b4c25265840b5">
-        <dex dex="/Users/Lawrey/udacity-android-quakereport/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-vector-drawable-23.3.0_45fbc0d6adef9b763318c5366648be60865e4766/classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
         jar="/Users/Lawrey/udacity-android-quakereport/app/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/23.3.0/jars/classes.jar"
         jumboMode="true"
         optimize="true"
         revision="23.0.2"
         sha1="23be6993826b8fd88bbc8d14928bb3b8960d3d4e">
         <dex dex="/Users/Lawrey/udacity-android-quakereport/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-animated-vector-drawable-23.3.0_fb60a0f86a3806203ac3175a8d877d8e8fcca133/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Lawrey/udacity-android-quakereport/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.2"
+        sha1="c811b1dd8eb55436c6760dbd31a2cb4d0682575c">
+        <dex dex="/Users/Lawrey/udacity-android-quakereport/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_47d5625b1e6df3eb24eab546261ac8a117e7b89f/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Lawrey/udacity-android-quakereport/app/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/23.3.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.2"
+        sha1="a0b5d60246cd9d4f3f2443611b3b4c25265840b5">
+        <dex dex="/Users/Lawrey/udacity-android-quakereport/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-vector-drawable-23.3.0_45fbc0d6adef9b763318c5366648be60865e4766/classes.dex" />
     </item>
     <item
         is-multidex="true"
@@ -52,7 +61,7 @@
         jumboMode="true"
         optimize="true"
         revision="23.0.2"
-        sha1="681ff55340fffa118c05e29e17835f698f03c973">
+        sha1="b0246a3b029c79f2a6282bf336ee61fec618b075">
         <dex dex="/Users/Lawrey/udacity-android-quakereport/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_52515f1d28c196d1cfa63897037fc0485680447c/classes.dex" />
     </item>
     <item
@@ -63,15 +72,6 @@
         revision="23.0.2"
         sha1="db7791d75a07fef9844d06236c1c59ba7bf6997c">
         <dex dex="/Users/Lawrey/udacity-android-quakereport/app/build/intermediates/transforms/dex/debug/folders/1000/10/support-annotations-23.3.0_e21106d209ed65175985109c7a48e94fc5c3f119/classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="/Users/Lawrey/udacity-android-quakereport/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="23.0.2"
-        sha1="a3ee01177c4d437528819e07eeaada22a3a48786">
-        <dex dex="/Users/Lawrey/udacity-android-quakereport/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_47d5625b1e6df3eb24eab546261ac8a117e7b89f/classes.dex" />
     </item>
 
 </items>
