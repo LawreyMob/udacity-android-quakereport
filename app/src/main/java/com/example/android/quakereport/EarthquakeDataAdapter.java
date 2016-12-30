@@ -24,8 +24,8 @@ public class EarthquakeDataAdapter extends ArrayAdapter<Earthquake> {
 
     private static final String LOCATION_SEPARATOR = " of ";
 
-    public EarthquakeDataAdapter(Context context, int resource, List<Earthquake> objects) {
-        super(context, resource, objects);
+    public EarthquakeDataAdapter(Context context, List<Earthquake> objects) {
+        super(context, 0, objects);
     }
 
     @NonNull
